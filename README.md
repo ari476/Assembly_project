@@ -1,5 +1,7 @@
 # Assembly_project
-Description: Calculator of 3 forms binary, decimal, and hexadecimal . In addition, the program prints: 1. List of the smallest factors . If the number is prime number  the program prints an appropriate message.
+Description: Calculator of 3 forms binary, decimal, and hexadecimal . In addition, the program prints: 
+
+1. List of the smallest factors . If the number is prime number  the program prints an appropriate message.
 
 2. List of divisors of the number - if it is not prime. 
 
